@@ -5,3 +5,10 @@ DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,apple-relay.apple.com
 DOMAIN-KEYWORD,apple-relay
+
+
+
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,seed.siri.apple.com
+DOMAIN,seed-siri-apple-com.v.aaplimg.com
+DOMAIN,smoot-searchv2-aapse1c.v.aaplimg.com
