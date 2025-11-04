@@ -6,7 +6,9 @@ DOMAIN,cp4.cloudflare.com
 DOMAIN,apple-relay.apple.com
 DOMAIN-KEYWORD,apple-relay
 
-
+DOMAIN,gateway.fe2.apple-dns.net
+DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
 
 DOMAIN,apple-relay.mask.apple-dns.net
 DOMAIN,seed.siri.apple.com
