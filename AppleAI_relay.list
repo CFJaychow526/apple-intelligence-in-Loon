@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-KEYWORD,mask
 
 DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
 DOMAIN-SUFFIX,mask-t.apple-dns.net
